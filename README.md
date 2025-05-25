@@ -40,24 +40,25 @@ This dataset can be used for:
 - Analyzing public opinion on energy-related issues in Indonesia
 
 ---
-
 ## 📌 How to Cite
 
-If you use this dataset in your research, please cite it as:
+If you use this dataset in your research or publication, please cite it as follows:
 
-APA:
-> Christina, S. (2024). *Energy Discourse Dataset from Indonesian Forums* (v1.0). GitHub. https://github.com/sherly-research/energy-dataset
+### 🔹 APA Style
 
-BibTeX:
+> Christina, S. (2025). *Energy Discourse Dataset from Indonesian Forums* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15511140
+
+### 🔹 BibTeX
+
 ```bibtex
-@misc{christina2024energy,
+@dataset{christina_2025_energy,
   author       = {Christina, Sherly},
   title        = {Energy Discourse Dataset from Indonesian Forums},
-  year         = 2024,
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/sherly-research/energy-dataset}},
-  version      = {v1.0}
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.15511140},
+  url          = {https://doi.org/10.5281/zenodo.15511140}
 }
 
 
